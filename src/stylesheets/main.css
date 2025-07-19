@@ -1,1 +1,7 @@
 /* Your styles go here */
+.bckimg{
+    background-image: url(/src/images/3765d7598d6d68105bf6d0e087628c24.jpg);
+      filter: blur(5px);
+  -webkit-filter: blur(3px);
+  background-size: cover;
+}
