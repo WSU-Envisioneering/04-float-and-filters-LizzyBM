@@ -3,20 +3,12 @@ body{
     background-image: url(/src/images/);
     background-size: cover;
     height: 100%;
-}
-.box{
-    background-image: linear-gradient(rgb(0, 0, 0),rgb(143, 114, 82), rgb(240, 240, 240), rgb(0, 0, 0) rgb(0, 0, 0),rgb(143, 114, 82), rgb(240, 240, 240), rgb(0, 0, 0));
-    
-}
-.transform{
-    padding: 1rem;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(169, 157, 204);
 }
 .low{
     border-radius: 100%;
 transform: scale(1);
 display: flex;
-justify-content: center;
 }
 header{
     background-color: rgba(94, 54, 133, 0.788);
@@ -27,3 +19,29 @@ header{
     text-align: center;
     color: aliceblue;
 }
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+article{
+    background-color: beige;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*when needed to BLUR
+    filter: blur(6px);
+    transform:;
